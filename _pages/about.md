@@ -44,26 +44,9 @@ Our paper ["A matheuristic approach for the multi-manned assembly line balancing
 
 Excellent collaboration with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html)! 👏👏👏 Our paper ["Model inversion attacks on discrete choice models"]() is currently under review.
 
-## Won the Postgraduate National Scholarship by the Ministry of Education of China, October 10, 2025
-
 ## SOUL project mid-term workshops & discussions, September 20, 2025
 Sharing recent progress and upcoming work with SOUL members—excited for what's next!
 
 ## Paper accepted by the Computers & Industrial Engineering, February, 2025 🎉
 
 Our paper ["An adaptive large neighborhood search algorithm for parallel assembly lines scheduling problem with complex fixture constraints"](https://www.sciencedirect.com/science/article/pii/S0360835224000214) is accepted by the [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering).
-
-## Start MIT-UF-NU summer research camp at MIT, April 25, 2025
-
-I am doing my summer research internship at **MIT** with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html). Our research topics are the formulation and solution approach for the model inversion attacks on discrete choice models in dynamic graph processing. 
-
-## SOUL Project Initiative Meeting (joint event for Sino–European projects), May 15, 2024
-Poster presentation of the location-routing problem with pickup facilities and heterogeneous demands.
-
-## Graduated from Tianjin University with a Bachelor's degree in Logistics Engineering, January 26, 2023
-Graduated ranked 1st in the major.
-
-## Won the Undergraduate National Scholarship by the Ministry of Education of China, September 10, 2022
-
-## Won the Outstanding Winner of the 2022 COMAP'S Mathematical Contest In Modeling (MCM), Team Leader, May 25, 2022
-We were honored to receive this prize, awarded to the top 0.16% of participants worldwide. Title "A Cointegration-Based Improved Pairs Trading Strategy for Gold and Bitcoin". Many thanks to my teammates for the great collaboration.😄
