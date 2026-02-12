@@ -1,0 +1,16 @@
+---
+title: "An adaptive large neighborhood decomposition search-based approach for the location-routing problem with pickup facilities and heterogeneous demands"
+collection: publications
+permalink: /publication/2026-01-18-ALNDS-for-LRP-with-pickup-facilities-and-heterogeneous-demands
+excerpt: 'In this paper, we propose an ALNDS algorithm to solve the location-routing problem with pickup facilities and heterogeneous demands'
+date: 2026-1-18
+venue: 'Computers & Operations Research'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S030505482600016X'
+citation: 'Mao, Z., Xu, Y., & Fu, E. (2026). An adaptive large neighborhood decomposition search-based approach for the location-routing problem with pickup facilities and heterogeneous demands. Computers & Operations Research, 107398.'
+---
+
+## Abstract
+In last-mile delivery, the flexibility and heterogeneity of customer demands have driven package delivery companies to implement more adaptive strategies, such as utilizing pickup points and lockers. However, selecting optimal locations for these pickup points or lockers can be challenging due to various factors. To address these challenges, we propose the location-routing problem with pickup facilities and heterogeneous demands (LRP-PFHD). To solve this problem, we formulate a mixed integer linear programming (MILP) model to minimize the total cost. We adapt the adaptive large neighborhood decomposition search (ALNDS) algorithm by incorporating initial solution generation strategies to improve solution quality and efficiency. Furthermore, we conduct a comprehensive computational study to verify the effectiveness and efficiency of our proposed method. The results show that this distribution mode could give a total cost-saving of about 9.97%–42.40% compared to the conventional CVRP mode. Finally, we carry out a case study in Vienna, Graz, and Linz and conduct a sensitivity analysis to provide managerial insights.
+
+## Key words
+Last-mile delivery; Pickup facility; Location-routing problem; Heterogeneous demands; Adaptive large neighborhood decomposition search
