@@ -1,0 +1,18 @@
+---
+title: "An adaptive large neighborhood search algorithm for parallel assembly lines scheduling problem with complex fixture constraints"
+collection: publications
+permalink: /publication/2023-04-19-Moving-Target-Tracking-Based-on-Multi-view-Fusion-Using-IR-UWB-Radar
+excerpt: 'In this paper, we propose propose an adaptive large neighborhood search algorithm that aims to solve the parallel heterogeneous assembly line scheduling problem with fixture constraint'
+date: 2024-02-15
+venue: 'Computers & Industrial Engineering'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360835224000214'
+citation: 'Mao, Z., Xu, Y., Fang, K., Wang, C., & Huang, D. (2024). An adaptive large neighborhood search algorithm for parallel assembly lines scheduling problem with complex fixture constraints. Computers & Industrial Engineering, 188, 109900.'
+---
+
+## Abstract
+In recent years, the value chain facilitates the transition of competition among enterprises from a single link to a comprehensive one, thereby driving intelligent upgrades within manufacturing enterprises. The intelligent upgrading also imposes new constraints on the traditional assembly line production mode. Inspired by the real production practices of company L, a global intelligent terminal manufacturing enterprise headquartered in China, this study addresses the parallel heterogeneous assembly line scheduling problem with fixture constraints (HALSFC). To tackle this challenging problem, we propose a mixed integer linear programming (MILP) model that aims to maximize the number of completed work orders within a specified time. To our best knowledge, this study is among the first attempts to address the HALSFC problem with setups and related work orders. Due to the NP-hardness of the problem, we propose an improved adaptive large neighborhood search algorithm (IALNS) for solving HALSFC. We evaluate both model functionalities and algorithm effectiveness using instances generated based on the real production data of company L. Extensive experimental results demonstrate the effectiveness and efficiency of IALNS compared to MILP, Tabu search algorithm (TS) and genetic algorithm (GA), especially for medium- and large-scale instances. Additionally, the sensitivity analysis of the quality inspection time, the related work orders proportion and the minimum cooling time of fixtures is also conducted.
+
+## Key words
+
+Value chain; Fixture constraints; Parallel assembly lines scheduling; Metaheuristic
+
