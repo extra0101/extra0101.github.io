@@ -24,7 +24,7 @@ I am currently a third-year M.S. student at Tianjin University. My background co
 - **Data-driven parallel machine scheduling (Company L)** — supervised by [Prof. Kan Fang (TJU)](https://faculty.tju.edu.cn/FangKan/en/index.htm). This study addresses a scheduling problem in a real production scenario at company L. We develop a mixed-integer linear programming (MILP) model and an efficient heuristic algorithm. Experiments on real-world data show the proposed methods can solve instances with **1,000+ orders within minutes**.
 
 
-# 🎉 NEWS
+# 🔥 NEWS
 
 ## Paper is on the way
 
