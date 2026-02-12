@@ -1,0 +1,16 @@
+---
+title: "A matheuristic approach for the multi-manned assembly line balancing problem with collaborative robots"
+collection: publications
+permalink: /publication/2025-12-18-Matheuristic-approach-for-the multi-manned-assembly-line-balancing-problem-with-collaborative-robots
+excerpt: 'In this paper, we propose a metaheuristic to solve the multi-manned assembly line balancing problem with collaborative robots'
+date: 2025-12-18
+venue: 'Computers & Operations Research'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360835224000214'
+citation: 'Mao, Z., Zhang, J., Sun, Y., Huang, D., & Xu, Y. (2025). A matheuristic approach for the multi-manned assembly line balancing problem with collaborative robots. Computers & Operations Research, 107322.'
+---
+
+## Abstract
+Multi-manned assembly lines play a vital role in modern manufacturing by enabling efficient management of complex assembly tasks and enhancing productivity, particularly for large-scale products. This paper investigates the integration of human–robot collaboration into multi-manned assembly lines, addressing a collaboration mode where workers and robots can flexibly choose to perform tasks in parallel or collaboratively execute the same task. This integration aims to enhance the efficiency of assembly resource utilization. We propose a mixed-integer programming model for this problem, with the primary objective of minimizing the number of workers and the secondary objective of minimizing the number of stations. Additionally, we establish a lower bound for the problem. To effectively solve medium and large-scale instances, we develop a matheuristic algorithm (MA) based on the mathematical model and heuristics, and we propose several variants. The experimental results demonstrate that our method effectively optimizes the application of collaborative robots in multi-manned assembly lines, outperforming the classical method presented in the literature.
+
+## Key words
+Assembly line balancing; Multi-manned assembly lines; Human–robot collaboration; Matheuristic approach
