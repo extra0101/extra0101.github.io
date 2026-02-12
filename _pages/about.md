@@ -40,9 +40,6 @@ Our paper ["An adaptive large neighborhood decomposition search-based approach f
 
 Our paper ["A matheuristic approach for the multi-manned assembly line balancing problem with collaborative robots"](https://www.sciencedirect.com/science/article/abs/pii/S030505482500351X) is accepted by the [Computers & Operations Research](http://www.jos.org.cn/josen/home).
 
-## Invited talk at 2025 INFORMS Annual Meeting, Atlanta, October 29
-Talk title "Integrated order dispatching and routing for last-mile pickup via deep reinforcement learning". Met many new friends at Atlanta! 😄
-
 ## Finished my MIT-UF-NU summer research camp at MIT, October 25, 2025
 
 Excellent collaboration with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html)! 👏👏👏 Our paper ["Model inversion attacks on discrete choice models"]() is currently under review.
@@ -59,14 +56,6 @@ Our paper ["An adaptive large neighborhood search algorithm for parallel assembl
 ## Start MIT-UF-NU summer research camp at MIT, April 25, 2025
 
 I am doing my summer research internship at **MIT** with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html). Our research topics are the formulation and solution approach for the model inversion attacks on discrete choice models in dynamic graph processing. 
-
-## Talk at CIE51, UNSW Sydney, December 9
-Talk title "Integrated order dispatching and routing for last-mile pickup via deep reinforcement learning".
-
-## Received the First-Class Academic Scholarship, November 1, 2024
-
-## Talk at 2024 INFORMS Annual Meeting, Seattle, October 20
-Talk title "Electric vehicle scheduling and charging problem under time-of-use pricing".
 
 ## SOUL Project Initiative Meeting (joint event for Sino–European projects), May 15, 2024
 Poster presentation of the location-routing problem with pickup facilities and heterogeneous demands.
