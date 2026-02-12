@@ -11,7 +11,7 @@ My background combines operations research, optimization, and learning-augmented
 
 |  | Ranking | Dates |
 |---|---:|---:|
-| **Tianjin University (TJU)**<br>Master of Management Science and Engineering<br>Supervisor: [Prof. Zhaofang Mao](https://come.tju.edu.cn/info/1539/5758.htm) | 13/200 (Top 7%) | *Sep 2023 – Jun 2026 (expected)* |
+| **Tianjin University (TJU)**<br>Master of Management Science and Engineering | 13/200 (Top 7%) | *Sep 2023 – Jun 2026 (expected)* |
 | **Tianjin University (TJU)**<br>Bachelor of Management | 1/25 (Top 4%) | *Sep 2019 – Jun 2023* |
 | **Saint Peter's University (USA)**<br>Short-Term High School Exchange Program | — | *Jul 2017 – Aug 2017* |
 
