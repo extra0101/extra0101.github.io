@@ -8,59 +8,73 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests are recommender systems, fairness, and time series.
+My research interests lie in operations research and decision-making for urban logistics, with an emphasis on optimization and learning-augmented algorithms for real-world and large-scale optimization problems (e.g., vehicle routing problems, machine scheduling problems).
 
-I am currently a Ph.D student in Computer Science and Engineering at [HKUST](https://hkust.edu.hk/) since the fall of 2023 under the supervision of [Prof. Raymond Wong](https://www.cse.ust.hk/~raywong/).
+I am currently a Master's student in Management Science and Engineering at [Tianjin University(TJU)](https://www.tju.edu.cn/) since the fall of 2023 under the supervision of [Prof. Zhaofang Mao](https://come.tju.edu.cn/info/1539/5758.htm). I also received my Bachelor's degree at [Tianjin University(TJU)](https://www.tju.edu.cn/) in 2023.
 
-I received my Bachelor's Degree in Computer Science from [Beijing University of Posts and Telecommunications(BUPT)](http://www.bupt.edu.cn/), and my final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
+I have worked on the model inversion attacks on discrete choice models (DCMs) under the supervision of [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html). This project is part of the MIT-UF-NU summer research camp, and is being undertaken in collaboration with [Prof. Jinhua Zhao, MIT](https://mobility.mit.edu/people/jinhua-zhao/), [Prof. Haris Koutsopoulos, NEU](https://coe.northeastern.edu/people/koutsopoulos-haris/), [Prof. Shenhao Wang, UF](https://dcp.ufl.edu/urp/people_wang_s/) and [Dr. Dingyi Zhuang, MIT]([https://www.mit.edu/~baichuan/index.html](https://zhuangdingyi.github.io/)). 
 
-I have worked on mobile computer systems under the supervision of [Prof. Mengwei Xu, BUPT](https://xumengwei.github.io/) and [Dr. Ting Cao, Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/ticao/).
+I have worked on Sustainable Operations in Urban Logistics (SOUL) program colloborated with [Prof.Jan Fransoo, Tilburg University](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid KLIBI, Kedge Business School](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao, Tsinghua University](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm)  and [Prof. Zhaoxia Guo, Sichuan University](https://bs.scu.edu.cn/gongye/201904/5203.html).
 
-I have worked on dynamic graph algorithms as a visiting student at the [University of British Columbia](https://ece.ubc.ca/) under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/), which was supported by [Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and [China Scholarship Council](https://www.csc.edu.cn/).
+I have worked on the data-driven parallel machine scheduling problems in company L under the supervision of [Prof. Kan Fang, TJU](https://faculty.tju.edu.cn/FangKan/en/index.htm).
+
+Currently, I am actively seeking PhD opportunities to develop challenging and inspiring ideas at the intersection of operations research and machine learning. At the same time, I remain broadly excited about other operations research topics and am open to exploring diverse OR-related problems!
+
+
 
 # NEWS
 
 ## Paper is on the way
 
-Our paper ["Scalable Realtime Physically-Based Animation on Mobile Platforms"]() is on the way.
+Our paper ["Distributionally robust optimization for windowed event logistics"]() is on the way.
 
-## Won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities, December 13, 2023
+## Paper is on the way
 
-My final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing University of Posts and Telecommunications and Beijing Ordinary Higher Educational Institutions under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
+Our paper ["Integrated order dispatching and routing for last-mile pickup via deep reinforcement learning"]() is currently under review.
 
-## Received the award of Outstanding Undergraduate Graduation of Beijing Ordinary Colleges and Universities, July 1, 2023
+## Paper accepted by the Computers & Operations Research, January, 2026 🎉
 
-I was awarded the honorary title of Outstanding Undergraduate Graduation of Beijing University of Posts and Telecommunications and Beijing Ordinary Colleges and Universities.
+Our paper ["An adaptive large neighborhood decomposition search-based approach for the location-routing problem with pickup facilities and heterogeneous demands"](https://www.sciencedirect.com/science/article/abs/pii/S030505482600016X) is accepted by the [Computers & Operations Research](http://www.jos.org.cn/josen/home).
 
-## Received and accepted an official Ph.D offer from The Hong Kong University of Science and Technology, December 10, 2022
+## Paper accepted by the Computers & Operations Research, October, 2025 🎉
 
-Received and accepted an official Ph.D offer of computer science and engineering from [HKUST Fok Ying Tung Graduate School](https://fytgs.hkust.edu.hk/).
+Our paper ["A matheuristic approach for the multi-manned assembly line balancing problem with collaborative robots"](https://www.sciencedirect.com/science/article/abs/pii/S030505482500351X) is accepted by the [Computers & Operations Research](http://www.jos.org.cn/josen/home).
 
+## Invited talk at 2025 INFORMS Annual Meeting, Atlanta, October 29
+Talk title "Integrated order dispatching and routing for last-mile pickup via deep reinforcement learning". Met many new friends at Atlanta! 😄
 
-## Finished my Mitacs globalink research internship at UBC, October 25, 2022
+## Finished my MIT-UF-NU summer research camp at MIT, October 25, 2025
 
-I Finished my Mitacs globalink research internship at **UBC** under the supervision of Prof. Matei Ripeanu.
+Excellent collaboration with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html)! 👏👏👏 Our paper ["Model inversion attacks on discrete choice models"]() is currently under review.
 
-## Paper accepted by the Journal of Software, August, 2022
+## Won the Postgraduate National Scholarship by the Ministry of Education of China, October 10, 2025
 
-Our paper ["Multi-view fusion based moving target tracking using IR-UWB devices"]() is accepted by the [Journal of Software](http://www.jos.org.cn/josen/home).
+## SOUL project mid-term workshops & discussions, September 20, 2025
+Sharing recent progress and upcoming work with SOUL members—excited for what's next!
 
-## Start my Mitacs globalink research internship at UBC, July 25, 2022
+## Paper accepted by the Computers & Industrial Engineering, February, 2025 🎉
 
-I am doing my Mitacs globalink research internship at **UBC** under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/).
+Our paper ["An adaptive large neighborhood search algorithm for parallel assembly lines scheduling problem with complex fixture constraints"](https://www.sciencedirect.com/science/article/pii/S0360835224000214) is accepted by the [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering).
 
-Our research topics are approximation algorithms and dynamic-only algorithms in dynamic graph processing. 
+## Start MIT-UF-NU summer research camp at MIT, April 25, 2025
 
-## Receive 2022 Mitacs GRI Offer, December 10, 2021
+I am doing my summer research internship at **MIT** with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html). Our research topics are the formulation and solution approach for the model inversion attacks on discrete choice models in dynamic graph processing. 
 
-I have been selected for a 2022 [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and accept my match offer.
+## Talk at CIE51, UNSW Sydney, December 9
+Talk title "Integrated order dispatching and routing for last-mile pickup via deep reinforcement learning".
 
-I have been matched with the following project: <br>
-Project Title: Massive-scale Graph Processing <br>
-Professor Name: **Matei Ripeanu** <br>
-Host University: **University of British Columbia – Vancouver**
+## Received the First-Class Academic Scholarship, November 1, 2024
 
-## Won the Best Paper Award of the 16th National Ubiquitous Computing Conference (PCC 2020), October 18, 2020
+## Talk at 2024 INFORMS Annual Meeting, Seattle, October 20
+Talk title "Electric vehicle scheduling and charging problem under time-of-use pricing".
 
-Our paper **"Multi-view fusion based moving target tracking using IR-UWB devices"**(基于IR-UWB的多视角融合动态目标追踪 in Chinese) was accepted and awarded the **best paper award** by [the 16th National Conference on Ubiquitous Computing (PCC 2020)](https://hhme.ccf.org.cn/history/2020/index.html)
+## SOUL Project Initiative Meeting (joint event for Sino–European projects), May 15, 2024
+Poster presentation of the location-routing problem with pickup facilities and heterogeneous demands.
 
+## Graduated from Tianjin University with a Bachelor's degree in Logistics Engineering, January 26, 2023
+Graduated ranked 1st in the major.
+
+## Won the Undergraduate National Scholarship by the Ministry of Education of China, September 10, 2022
+
+## Won the Outstanding Winner of the 2022 COMAP'S Mathematical Contest In Modeling (MCM), Team Leader, May 25, 2022
+We were honored to receive this prize, awarded to the top 0.16% of participants worldwide. Title "A Cointegration-Based Improved Pairs Trading Strategy for Gold and Bitcoin". Many thanks to my teammates for the great collaboration.😄
