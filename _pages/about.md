@@ -17,12 +17,12 @@ I am currently a third-year M.S. student at Tianjin University. My background co
 | **Tianjin University (TJU)**<br>Bachelor of Management | 1/25 (Top 4%) | *Sep 2019 – Jun 2023* |
 | **Saint Peter's University (USA)**<br>Short-Term High School Exchange Program | — | *Jul 2017 – Aug 2017* |
 
-
 ## 👨‍💻 Research & Collaboration
 
-- **Model inversion attacks on discrete choice models (DCMs)** — supervised by [Dr. Baichuan Mo (MIT)](https://www.mit.edu/~baichuan/index.html); part of the MIT–UF–NU summer research camp; in collaboration with [Prof. Jinhua Zhao (MIT)](https://mobility.mit.edu/people/jinhua-zhao/), [Prof. Haris Koutsopoulos (Northeastern University)](https://coe.northeastern.edu/people/koutsopoulos-haris/), [Prof. Shenhao Wang (University of Florida)](https://dcp.ufl.edu/urp/people_wang_s/), and [Dr. Dingyi Zhuang (MIT)](https://zhuangdingyi.github.io/).
-- **Sustainable Operations in Urban Logistics (SOUL)** — collaborated with [Prof. Jan C. Fransoo (Tilburg University)](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid Klibi (Kedge Business School)](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao (Tsinghua University)](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm), and [Prof. Zhaoxia Guo (Sichuan University)](https://bs.scu.edu.cn/gongye/201904/5203.html).
-- **Data-driven parallel machine scheduling (Company L)** — supervised by [Prof. Kan Fang (TJU)](https://faculty.tju.edu.cn/FangKan/en/index.htm).
+- **Model inversion attacks on discrete choice models (DCMs)** — supervised by [Dr. Baichuan Mo (MIT)](https://www.mit.edu/~baichuan/index.html). This project is part of the MIT–UF–NU summer research camp, investigates privacy risks in DCMs by studying how an attacker may reconstruct sensitive inputs from observed model outputs or query responses. This work is conducted in collaboration with [Prof. Jinhua Zhao (MIT)](https://mobility.mit.edu/people/jinhua-zhao/), [Prof. Haris Koutsopoulos (Northeastern University)](https://coe.northeastern.edu/people/koutsopoulos-haris/), [Prof. Shenhao Wang (University of Florida)](https://dcp.ufl.edu/urp/people_wang_s/), and [Dr. Dingyi Zhuang (MIT)](https://zhuangdingyi.github.io/).
+- **Sustainable Operations in Urban Logistics (SOUL)** — I work with the SOUL consortium on data-driven decision-making for urban logistics, focusing on optimization modeling and algorithm design for operational planning problems. This program is in collaboration with [Prof. Jan C. Fransoo (Tilburg University)](https://www.tilburguniversity.edu/staff/jan-fransoo), [Prof. Walid Klibi (Kedge Business School)](https://student.kedge.edu/faculty-directory/walid-klibi), [Prof. Lei Zhao (Tsinghua University)](https://www.ie.tsinghua.edu.cn/eng/info/1051/1016.htm), and [Prof. Zhaoxia Guo (Sichuan University)](https://bs.scu.edu.cn/gongye/201904/5203.html).
+- **Data-driven parallel machine scheduling (Company L)** — supervised by [Prof. Kan Fang (TJU)](https://faculty.tju.edu.cn/FangKan/en/index.htm). This study addresses a scheduling problem in a real production scenario at company L. We develop a mixed-integer linear programming (MILP) model and an efficient heuristic algorithm. Experiments on real-world data show the proposed methods can solve instances with **1,000+ orders within minutes**.
+
 
 # 🎉 NEWS
 
