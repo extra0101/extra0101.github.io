@@ -2,7 +2,7 @@
 title: "An adaptive large neighborhood search algorithm for parallel assembly lines scheduling problem with complex fixture constraints"
 collection: publications
 permalink: /publication/2024-02-15-ALNS-for-the-parallel-heterogeneous-assembly-line-scheduling-problem-with-fixture-constraint
-excerpt: 'In this paper, we propose propose an adaptive large neighborhood search algorithm that aims to solve the parallel heterogeneous assembly line scheduling problem with fixture constraint'
+excerpt: 'In this paper, we propose an ALNS algorithm that aims to solve the parallel heterogeneous assembly line scheduling problem with fixture constraint'
 date: 2024-02-15
 venue: 'Computers & Industrial Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360835224000214'
