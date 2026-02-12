@@ -44,7 +44,7 @@ Our paper ["A matheuristic approach for the multi-manned assembly line balancing
 
 ## Finished my MIT-UF-NU summer research camp at MIT, October 25, 2025
 
-Excellent collaboration with [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html)! 👏👏👏 Our paper ["Model inversion attacks on discrete choice models"]() is currently under review.
+It was a wonderful experience being supervised by [Dr. Baichuan Mo, MIT](https://www.mit.edu/~baichuan/index.html)! 👏👏👏 Our paper ["Model inversion attacks on discrete choice models"]() is currently under review.
 
 ## SOUL project mid-term workshops & discussions, September 20, 2025
 Sharing recent progress and upcoming work with SOUL members—excited for what's next!
